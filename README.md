@@ -1,4 +1,5 @@
 # Lebenslauf
+![persönliche Bild](muster_bild.png)
 ## Persönliche Daten
 - **Name** *Max Muster*
 - **Anschrift** *Musterstraße 1 12345 Musterstadt*
